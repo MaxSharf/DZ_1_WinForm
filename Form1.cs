@@ -16,5 +16,7 @@ namespace DZ_1_WinForm
         {
             InitializeComponent();
         }
+
+       
     }
 }
